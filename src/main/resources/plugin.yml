@@ -1,0 +1,4 @@
+name: untitled2
+version: '${project.version}'
+main: fadnix.meow.DiscordBot
+api-version: 1.19
